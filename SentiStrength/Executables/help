@@ -1,0 +1,15 @@
+====SentiStrength Brief Help====
+For most operations, a minimum of two SentiStrength parameters must be set
+1) folder location for the SentiStrength linguistic files (sentidata)
+   e.g., on Windows: C:/mike/SentStrength_Data/
+   e.g., on Mac/Linux/Unix: /usr/SentStrength_Data/
+SentiStrength_Data can be downloaded with the Windows version of SentiStrength from sentistrength.wlv.ac.uk
+
+2) text to be classified or file name of texts to be classified
+   e.g., To classify one text: text love+u
+   e.g., To classify a file of texts: input /bob/data.txt
+
+Here is an example complete command:
+java -jar SentiStrength.jar sentidata C:/a/SentStrength_Data/ text love+u
+
+To list all SentiStrength commands: java -jar SentiStrength.jar help
