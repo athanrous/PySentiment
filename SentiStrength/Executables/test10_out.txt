@@ -1,2 +1,0 @@
-Overall	Text
-0	So at least cups and pcsc-lite are explicitely requiring syslog and ISo at least cups and pcsc -lite are explicitely requiring syslog and I	So at least cups and pcsc -lite are explicitely requiring syslog and ISo at least cups and pcsc -lite are explicitely requiring syslog and I [sentence: 1,-1] [result: max + and - of any sentence]
